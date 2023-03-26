@@ -15,3 +15,6 @@ Membuat barcode dari URL apapun, langsung bisa di scan
 #
 > python bar.py
 # 
+* Contoh barcode
+#
+![contoh](https://user-images.githubusercontent.com/124151847/227794597-5dd55646-7c94-4f7c-93e2-a9397ff58625.png)
