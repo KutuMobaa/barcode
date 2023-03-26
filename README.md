@@ -11,7 +11,7 @@ Membuat barcode dari URL apapun, langsung bisa di scan
 #
 * cd barcode
 #
-* pip install -r requirments.txt
+* pip install -r requirments.txt 
 #
 * python bar.py
 # 
