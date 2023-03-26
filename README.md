@@ -7,7 +7,7 @@ Membuat barcode dari URL apapun, langsung bisa di scan
 #
 * pkg install git
 #
-* git clone github.com/KutuMobaa/barcode
+* git clone https://github.com/KutuMobaa/barcode
 #
 * cd barcode
 #
