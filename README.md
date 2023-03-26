@@ -1,17 +1,17 @@
 # barcode
 Membuat barcode dari URL apapun, langsung bisa di scan 
 #
-* pkg update && pkg upgrade
+> pkg update && pkg upgrade
 #
-* pkg install python
+> pkg install python
 #
-* pkg install git
+> pkg install git
 #
-* git clone https://github.com/KutuMobaa/barcode
+> git clone https://github.com/KutuMobaa/barcode
 #
-* cd barcode
+> cd barcode
 #
-* pip install -r requirments.txt 
+> pip install -r requirments.txt 
 #
-* python bar.py
+> python bar.py
 # 
