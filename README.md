@@ -1,6 +1,8 @@
 # barcode
 Membuat barcode dari URL apapun, langsung bisa di scan 
 #
+![contoh](https://user-images.githubusercontent.com/124151847/227794944-dfd41daf-2b7c-47eb-9b4d-e1d1eed9fd3d.png)
+#
 > pkg update && pkg upgrade
 #
 > pkg install python
@@ -15,8 +17,3 @@ Membuat barcode dari URL apapun, langsung bisa di scan
 #
 > python bar.py
 # 
-* Contoh barcode
-#
-``` guthub.com/KutuMobaa ```
-#
-![contoh](https://user-images.githubusercontent.com/124151847/227794597-5dd55646-7c94-4f7c-93e2-a9397ff58625.png)
